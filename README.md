@@ -4,12 +4,12 @@
 Ege Berke Balseven
 
 ###  Prerequisites
-skimage
-numpy
-torch
-torchvision
-matplotlib
-opencv
+skimage<br/>
+numpy<br/>
+torch<br/>
+torchvision<br/>
+matplotlib<br/>
+opencv<br/>
 
 python version Python 3.7.1 <br/>
 pytorch version 1.0.1<br/>
